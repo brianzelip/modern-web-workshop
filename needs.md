@@ -2,6 +2,10 @@
 
 This document collects the ideal tech stack checklist for the Towson computer lab, and performance flow for use of ideal online resources to build the workshop around.
 
+~or~
+
+This document collects the assumptions about the Towson computer lab tech stack, and the performance flow of GitHub, CodeSandbox, Netlify, and Glitch.
+
 ## Computer lab
 
 - Need to check that the online resources I want to hit, can handle 30 different requests from a the same IP range at the same time
