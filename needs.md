@@ -77,3 +77,17 @@ cd /app
 
 git checkout X
 ```
+
+## What base info would be useful in this context?
+
+> component thinking, the JavaScript ecosystem, and the Git workflow.
+
+- Git
+  - GitHub
+- JavaScript
+  - Node.js
+  - npm
+- Component thinking
+  - Vue.js
+- Deployment platforms
+  - Glitch
