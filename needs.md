@@ -46,6 +46,7 @@ rm -rf /app/*
 rm -rf /app/.*
 
 # 4. clone your back end repository
+# (replace USERNAME with your GitHub username)
 git clone https://github.com/USERNAME/modern-web-back-end.git app
 
 # 5. move into the app directory
@@ -56,3 +57,23 @@ refresh
 ```
 
 Note: always end with `refresh` when switching branches in order to see the new files in the glitch user interface
+
+Switching branches on glitch
+
+1. Click "Tools" buton in bottom left
+
+2. Click "Logs" button in Tools menu
+
+3. Click "Console" buton in Logs interface
+
+4. Then, in the Console, type the following code step by step: 
+
+```bash
+# 5. Go to the app/ directory
+cd /app
+
+# 6. Checkout branch X
+# (replace X with the desired branch number)
+
+git checkout X
+```
