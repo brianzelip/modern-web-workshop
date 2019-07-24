@@ -1,0 +1,11 @@
+---
+---
+
+<nav>
+  {% if page._previous %}
+    <a href="{{ page._previous }}" class="btn btn-primary">⬅️ Previous</a>
+  {% endif %}
+  {% if page._next %}
+    <a href="{{ page._next }}" class="btn btn-primary ml2">Next ➡️</a>
+  {% endif %}
+</nav>
