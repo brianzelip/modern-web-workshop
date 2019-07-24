@@ -6,19 +6,23 @@ _next: back1.html
 
 ## {{ page.title_sub }}
 
-### 1. GitHub
+### GitHub
 
 Create a GitHub account or log in to your existing GitHub account.
 
 1. <a href="https://github.com" target="_blank">Open GitHub in new tab</a> and keep the tab open
 
-### 2. Email
+---
+
+### Email
 
 GitHub might send you an email message for verification.
 
 1. Check your email by <a href="about:blank" target="_blank">opening a new tab</a> and keep the tab open
 
-### 3. Get workshop source code
+---
+
+### Get workshop source code
 
 "Fork" the code for this workshop by going to the following code repositories:
 
