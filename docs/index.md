@@ -17,7 +17,7 @@ Create a GitHub account or log in to your existing GitHub account.
 
 ### Email
 
-GitHub might send you an email message for verification.
+GitHub might send you an email message to verify your account or the computer you're working on.
 
 1. Log in to your email by <a href="about:blank" target="_blank">opening a new tab</a>
 2. Respond to any verification email from GitHub
