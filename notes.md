@@ -51,4 +51,26 @@ Once everyone has a GH account and has verified the device they're working on:
 
 - HAVE TO MANUALLY SET THE DATA API URL on the front end, DEPENDING ON WHATEVER THE BACK END GLITCH REPO IS CALLED!
 
+#### Stages
+
+1. Client app up and running; renders header
+  - maybe do somework that renders the name of the resource that the user clicks in place of rendering TheDataGrid - this work will get overwritten, but that's ok, the point is to walk participants through how these front end js frameworks work.
+
+2. Activate TheDataGrid to render the real data from server
+
 ### Back end TODO
+
+#### Stages
+
+1. MVC server up and running, but no data; render basic view to be sure everything is working
+
+2. Incorporate data; start sending back real data in the browser upon request
+
+### Workshop outline
+
+1. Set up through backend stage 1
+2. Take a step back and look at what we're working with
+  - git, github, git workflow
+3. Then Front end setup and stage 1
+4. Then back end stage 2
+5. Then front end stage 2
