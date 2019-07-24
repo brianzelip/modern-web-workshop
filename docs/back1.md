@@ -5,9 +5,9 @@ _previous: index.html
 _next: back2.html
 ---
 
-## {{ page.title }}
+## 2. {{ page.title }}
 
-### Start new Glitch project
+### 2.1. Start new Glitch project
 
 Glitch is a service that provides a free web server for learning and experimentation. We can use Glitch to write code, or import existing code from a git repository.
 
@@ -18,7 +18,7 @@ Let's "clone" our back end repository on GitHub to a new Glitch project.
 
 ---
 
-### Open Glitch's command line
+### 2.2. Open Glitch's command line
 
 Let's use Glitch's command line feature (or "console") to fully clone our back end code on GitHub.
 
@@ -28,7 +28,7 @@ Let's use Glitch's command line feature (or "console") to fully clone our back e
 
 ---
 
-### Manually clone the back end repository
+### 2.3. Manually clone the back end repository
 
 Copy and paste each of the following comands into the Glitch console to replace the default Glitch project files with our back end files.
 
