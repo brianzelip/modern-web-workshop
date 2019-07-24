@@ -1,10 +1,10 @@
 <nav class="flex justify-content-center align-items-end pb2">
   <div>
     {% if page._previous %}
-    <a href="{{ page._previous }}" class="btn btn-outline">⬅️ Previous</a>
+    <a href="{{ page._previous }}" class="btn btn-primary">⬅️ Previous</a>
     {% endif %}
     {% if page._next %}
-    <a href="{{ page._next }}" {% if page._previous %} class="btn btn-outline ml2" {% else %} class="btn btn-outline" {% endif %}>Next ➡️</a>
+    <a href="{{ page._next }}" {% if page._previous %} class="btn btn-primary ml2" {% else %} class="btn btn-primary" {% endif %}>Next ➡️</a>
     {% endif %}
   </div>
 </nav>
