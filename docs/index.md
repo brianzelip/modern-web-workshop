@@ -26,13 +26,12 @@ GitHub might send you an email message to verify your email or the computer you'
 
 "Fork" the code for this workshop.
 
-1. Click each of the following links to code repositories
-2. Click the **Fork** button near the top right corner
-3. Close the tab
-
-- <a href="https://github.com/brianzelip/modern-web-workshop" target="_blank">Modern web workshop</a>
-- <a href="https://github.com/brianzelip/modern-web-back-end" target="_blank">Modern web back end</a>
-- <a href="https://github.com/brianzelip/modern-web-front-end" target="_blank">Modern web front end</a>
+1. Open the 3 code repositories by clicking the following links
+  - <a href="https://github.com/brianzelip/modern-web-workshop" target="_blank">Modern web workshop</a>
+  - <a href="https://github.com/brianzelip/modern-web-back-end" target="_blank">Modern web back end</a>
+  - <a href="https://github.com/brianzelip/modern-web-front-end" target="_blank">Modern web front end</a>
+2. Click each **Fork** button near the top right corner
+3. Close each tab
 
 ### 1.4. Glitch
 
