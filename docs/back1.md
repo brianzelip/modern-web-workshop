@@ -26,6 +26,8 @@ Let's use Glitch's command line feature (or "console") to fully clone our back e
 2. Click **Logs** button in Tools menu
 3. Click **Console** buton in Logs interface
 
+---
+
 ### Manually clone the back end repository
 
 Copy and paste each of the following comands into the Glitch console to replace the default Glitch project files with our back end files.
@@ -36,5 +38,5 @@ Copy and paste each of the following comands into the Glitch console to replace 
   <li>Remove all hidden files in the app directory<br><br><code>rm -rf /app/.*</code><br><br></li>
   <li>Clone your back end repository (replace USERNAME with your GitHub username)<br><br><code>git clone https://github.com/USERNAME/modern-web-back-end.git app</code><br><br></li>
   <li>Move into the app directory<br><br><code>cd app</code><br><br></li>
-  <li>Refresh the glitch web editor<br><br><code>refresh</code><br><br></li>
+  <li>Refresh the glitch web editor to see the new files<br><br><code>refresh</code><br><br></li>
 </ol>
