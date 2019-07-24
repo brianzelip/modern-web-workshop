@@ -6,7 +6,7 @@ _next: back1.html
 
 ## {{ page.title_sub }}
 
-<h3 class="h4">GitHub</h3>
+### GitHub
 
 Create a GitHub account or log in to your existing GitHub account.
 
@@ -14,7 +14,7 @@ Create a GitHub account or log in to your existing GitHub account.
 
 ---
 
-<h3 class="h4">Email</h3>
+### Email
 
 GitHub might send you an email message for verification.
 
@@ -22,7 +22,7 @@ GitHub might send you an email message for verification.
 
 ---
 
-<h3 class="h4"> Get workshop source code</h3>
+### Get workshop source code
 
 "Fork" the code for this workshop.
 
