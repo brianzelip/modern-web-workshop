@@ -31,10 +31,10 @@ Let's use Glitch's command line feature (or "console") to fully clone our back e
 Copy and paste each of the following comands into the Glitch console to replace the default Glitch project files with our back end files.
 
 <ol>
-  <li>Move up one directory to the home directory<br><br><code>cd /</code></li>
-  <li>Remove all visible files in the app directory<br><br><code>rm -rf /app/*</code></li>
-  <li>Remove all hidden files in the app directory<br><br><code>rm -rf /app/.*</code></li>
-  <li>Clone your back end repository (replace USERNAME with your GitHub username)<br><br><code>git clone https://github.com/USERNAME/modern-web-back-end.git app</code></li>
-  <li>Move into the app directory<br><br><code>cd app</code></li>
-  <li>Refresh the glitch web editor<br><br><code>refresh</code></li>
+  <li>Move up one directory to the home directory<br><br><code>cd /</code><br><br></li>
+  <li>Remove all visible files in the app directory<br><br><code>rm -rf /app/*</code><br><br></li>
+  <li>Remove all hidden files in the app directory<br><br><code>rm -rf /app/.*</code><br><br></li>
+  <li>Clone your back end repository (replace USERNAME with your GitHub username)<br><br><code>git clone https://github.com/USERNAME/modern-web-back-end.git app</code><br><br></li>
+  <li>Move into the app directory<br><br><code>cd app</code><br><br></li>
+  <li>Refresh the glitch web editor<br><br><code>refresh</code><br><br></li>
 </ol>
