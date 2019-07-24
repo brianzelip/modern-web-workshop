@@ -4,9 +4,9 @@ layout: default
 _next: back1.html
 ---
 
-## 1 {{ page.title }}
+## 1. {{ page.title }}
 
-### 1.1 GitHub
+### 1.1. GitHub
 
 Create a GitHub account or log in to your existing GitHub account.
 
@@ -15,7 +15,7 @@ Create a GitHub account or log in to your existing GitHub account.
 
 ---
 
-### 1.2 Email
+### 1.2. Email
 
 GitHub might send you an email message to verify your email or the computer you're working on.
 
@@ -24,7 +24,7 @@ GitHub might send you an email message to verify your email or the computer you'
 
 ---
 
-### 1.3 Get workshop source code
+### 1.3. Get workshop source code
 
 "Fork" the code for this workshop.
 
@@ -36,7 +36,7 @@ GitHub might send you an email message to verify your email or the computer you'
 
 ---
 
-### 1.4 Glitch
+### 1.4. Glitch
 
 We'll use Glitch as a platform to edit and publish our code.
 
