@@ -1,5 +1,5 @@
 ---
-title: Explore front end application
+title: Explore front end
 layout: default
 _previous: front1.html
 _next: front3.html
