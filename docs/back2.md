@@ -1,5 +1,5 @@
 ---
-title: Explore back end application
+title: Explore back end
 layout: default
 _previous: back1.html
 _next: back3.html

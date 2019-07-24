@@ -1,8 +1,8 @@
 ---
-title: Explore back end application
+title: Get server up and running
 layout: default
 _previous: back2.html
-_next: front1.html
+_next: reflect1.html
 ---
 
 ## 4. {{ page.title }}

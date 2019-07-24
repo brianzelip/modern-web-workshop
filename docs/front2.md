@@ -5,6 +5,6 @@ _previous: front1.html
 _next: front3.html
 ---
 
-## 6. {{ page.title }}
+## 7. {{ page.title }}
 
 ---

@@ -1,10 +1,10 @@
 ---
 title: Clone front end
 layout: default
-_previous: back3.html
+_previous: reflect1.html
 _next: front2.html
 ---
 
-## 5. {{ page.title }}
+## 6. {{ page.title }}
 
 ---
