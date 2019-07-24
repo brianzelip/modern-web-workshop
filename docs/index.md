@@ -16,7 +16,7 @@ Create a GitHub account or log in to your existing GitHub account.
 
 GitHub might send you an email message for verification.
 
-1. Check your email by <a href="" target="_blank">opening a new tab</a> and keep the tab open
+1. Check your email by <a href="about:blank" target="_blank">opening a new tab</a> and keep the tab open
 
 ### 3. Get workshop source code
 
