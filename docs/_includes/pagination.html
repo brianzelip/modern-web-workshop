@@ -4,7 +4,7 @@
     <a href="{{ page._previous }}" class="btn btn-outline">⬅️ Previous</a>
     {% endif %}
     {% if page._next %}
-    <a href="{{ page._next }}" class="btn btn-outline ml2">Next ➡️</a>
+    <a href="{{ page._next }}" {% if page._previous %} class="btn btn-outline ml2" {% else %} class="btn btn-outline" {% endif %}>Next ➡️</a>
     {% endif %}
   </div>
 </nav>
