@@ -30,3 +30,9 @@ body,
 .align-self-center {
   align-self: center;
 }
+
+code {
+  background-color: rgba(27,31,35,.05);
+  border-radius: 3px;
+  padding: .2em .4em;
+}
