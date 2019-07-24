@@ -24,8 +24,10 @@ GitHub might send you an email message for verification.
 
 ### Get workshop source code
 
-"Fork" the code for this workshop by going to the following code repositories:
+"Fork" the code for this workshop.
 
-1. [Modern web workshop](https://github.com/brianzelip/modern-web-workshop)
-2. [Modern web back end](https://github.com/brianzelip/modern-web-back-end)
-3. [Modern web front end](https://github.com/brianzelip/modern-web-front-end)
+1. Go to the following code repositories, and click the **Fork** button near the top right corner:
+
+- [Modern web workshop](https://github.com/brianzelip/modern-web-workshop)
+- [Modern web back end](https://github.com/brianzelip/modern-web-back-end)
+- [Modern web front end](https://github.com/brianzelip/modern-web-front-end)
