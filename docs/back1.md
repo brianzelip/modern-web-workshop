@@ -18,32 +18,38 @@ Let's "clone" our back end repository on GitHub to a new Glitch project.
 
 ---
 
-### Manually clone the back end repository
+### Open Glitch's command line
 
-Let's use Glitch's command line feature (or "console") to manually clone our back end code on GitHub.
+Let's use Glitch's command line feature (or "console") to fully clone our back end code on GitHub.
 
 1. Click the **Tools** buton in bottom left corner
 2. Click **Logs** button in Tools menu
 3. Click **Console** buton in Logs interface
-4. Then, in the Console, type the following code step by step:
 
-```bash
-# 1. move up one directory to the home directory
-cd /
+### Manually clone the back end repository
 
-# 2. remove all visible files in the app directory
-rm -rf /app/*
+Copy and paste each of the following comands into the Glitch console to replace the default Glitch project files with our back end files.
 
-# 3. remove all hidden files in the app directory
-rm -rf /app/.*
+Move up one directory to the home directory
 
-# 4. clone your back end repository
-# (replace USERNAME with your GitHub username)
-git clone https://github.com/USERNAME/modern-web-back-end.git app
+1. `cd /`
 
-# 5. move into the app directory
-cd app
+Remove all visible files in the app directory
 
-# 6. refresh the glitch web editor
-refresh
-```
+2. `rm -rf /app/*`
+
+Remove all hidden files in the app directory
+
+3. `rm -rf /app/.*`
+
+Clone your back end repository
+(replace USERNAME with your GitHub username)
+
+4. `git clone https://github.com/USERNAME/modern-web-back-end.git app`
+
+Move into the app directory
+
+5. `cd app`
+
+Refresh the glitch web editor
+6. `refresh`
