@@ -20,7 +20,7 @@ Let's "clone" our back end repository on GitHub to a new Glitch project.
 
 ### 2.2. Open Glitch's command line
 
-Let's use Glitch's command line feature (or "console") to fully clone our back end code on GitHub.
+Let's use Glitch's command line feature (or "console") to fully clone our back end code from GitHub.
 
 1. Click the **Tools** buton in bottom left corner
 2. Click **Logs** button in Tools menu
@@ -29,6 +29,8 @@ Let's use Glitch's command line feature (or "console") to fully clone our back e
 ### 2.3. Manually clone the back end repository
 
 Copy and paste each of the following comands into the Glitch console to replace the default Glitch project files with our back end files.
+
+\***Pro tip**: triple-click each line of code to easiliy highlight it for copying!
 
 <ol>
   <li>Move up one directory to the home directory<br><br><code>cd /</code><br><br></li>
