@@ -39,3 +39,16 @@ Once everyone has a GH account and has verified the device they're working on:
 2. Fork back end repo
 
 3. Fork front end repo
+
+
+### Talk notes
+
+- the difference between GH and Glitch - GH hosts the code, and provides various administrative functions; Glitch actually runs the code
+
+### Front end TODO
+
+- reorder resource rendered list headings, ie: for vehicles, and starships, etc, move FILMS up to the top to jog user's memory
+
+- HAVE TO MANUALLY SET THE DATA API URL on the front end, DEPENDING ON WHATEVER THE BACK END GLITCH REPO IS CALLED!
+
+### Back end TODO
