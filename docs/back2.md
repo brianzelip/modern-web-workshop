@@ -5,6 +5,6 @@ _previous: back1.html
 _next: back3.html
 ---
 
-## {{ page.title }}
+## 3. {{ page.title }}
 
-### Use Glitch's web editor
+### 3.1. Use Glitch's web editor
