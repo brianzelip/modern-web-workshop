@@ -1,8 +1,10 @@
 <nav>
-  {% if page._previous %}
+  <div class="col-6 mx-auto">
+    {% if page._previous %}
     <a href="{{ page._previous }}" class="btn btn-outline">⬅️ Previous</a>
-  {% endif %}
-  {% if page._next %}
+    {% endif %}
+    {% if page._next %}
     <a href="{{ page._next }}" class="btn btn-outline ml2">Next ➡️</a>
-  {% endif %}
+    {% endif %}
+  </div>
 </nav>
