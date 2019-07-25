@@ -24,3 +24,6 @@ Interact with a fully functional command line interface by clicking on the **Too
 ### 7.3. Follow along with the instructor
 
 Let's interact with some code!
+
+1. Edit index.html
+2. Edit App.vue
