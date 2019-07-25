@@ -1,5 +1,5 @@
 ---
-title: Explore front end
+title: Explore front end starter files
 layout: default
 _previous: front1.html
 _next: front3.html
