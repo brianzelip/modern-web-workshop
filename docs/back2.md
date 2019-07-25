@@ -25,5 +25,5 @@ Interact with a fully functional command line interface by clicking on the **Too
 
 Let's interact with some code!
 
-1. Look at server.js, routes.js, and controllers.js
+1. Look at server.js, routes.js, controllers.js, and views/index.pug
 2. Edit controllers.js
