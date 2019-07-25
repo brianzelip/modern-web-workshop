@@ -1,5 +1,5 @@
 ---
-title: "Bonus: Render SWAPI data (time permitting)"
+title: "Bonus: Render swapi.co data on the front end (time permitting)"
 layout: default
 _previous: bonus1.html
 ---
