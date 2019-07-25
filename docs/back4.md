@@ -23,4 +23,4 @@ Copy and paste the following commands in the Glitch console:
 Let's start serving up real data!
 
 1. Edit controllers.js
-2. Test the API endpoint using different resource parameters
+2. Test the API endpoint in the browser using different resource parameters
