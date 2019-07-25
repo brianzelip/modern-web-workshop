@@ -8,21 +8,27 @@ _next: back1.html
 
 ---
 
-### 1.1. GitHub
+### 1.1. Workshop preview
+
+Let's take a quick look at what we'll build in this workshop.
+
+1. Open the [completed version](https://modern-web-front-end.netlify.com)
+
+### 1.2. GitHub
 
 Create a GitHub account or log in to your existing GitHub account.
 
 1. <a href="https://github.com" target="_blank">Open GitHub in new tab</a> and keep the tab open
 2. Create a new account or sign in
 
-### 1.2. Email
+### 1.3. Email
 
 GitHub might send you an email message to verify your email or the computer you're working on.
 
 1. Log in to your email by <a href="about:blank" target="_blank">opening a new tab</a>
 2. Respond to any verification email from GitHub
 
-### 1.3. Get workshop source code
+### 1.4. Get workshop source code
 
 "Fork" the code for this workshop.
 
@@ -33,7 +39,7 @@ GitHub might send you an email message to verify your email or the computer you'
 2. Click each **Fork** button near the top right corner
 3. Close each tab
 
-### 1.4. Glitch
+### 1.5. Glitch
 
 We'll use Glitch as a platform to edit and publish our code.
 
