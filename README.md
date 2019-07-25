@@ -1,4 +1,4 @@
-# Modern web workshop
+# Modern Web Workshop
 
 This is the class guide for the workshop, **Build a Back End! Build a Front End!: A guided hands-on tour of modern web development tools and concepts**, offered at [TCAL 2019](https://wp.towson.edu/tcal/).
 
