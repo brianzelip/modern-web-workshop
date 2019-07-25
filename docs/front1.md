@@ -38,3 +38,9 @@ Copy and paste each of the following comands into the Glitch console to replace 
   <li>Move into the app directory<br><br><code>cd app</code><br><br></li>
   <li>Refresh the glitch web editor to see the new files<br><br><code>refresh</code><br><br></li>
 </ol>
+
+### 6.4. Checkout branch 1
+
+Our front end project is currently in its finished state. Let's "checkout" an earlier state to start from the beginning.
+
+1. Run the following code in the Glitch console<br><br><code>git checkout 1</code>
