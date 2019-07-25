@@ -14,7 +14,7 @@ _next: front2.html
 Let's "clone" our front end repository on GitHub to a new Glitch project.
 
 1. Open <a href="https://glitch.com" target="_blank">Glitch in a new tab</a>, and keep this tab open
-2. Click the project button in the top left, then select the **New Project** option
+2. Click the **New Project** button near the top right
 3. Then click the **Hello-Webpage** option to create a new project
 
 ### 6.2. Open Glitch's command line
