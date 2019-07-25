@@ -21,3 +21,7 @@ Copy and paste the following commands in the Glitch console:
 ### 8.2. Follow along with the instructor
 
 Let's render our app's header and footer!
+
+1. Register components in App.vue
+2. Edit header list data
+3. Edit footer link data
