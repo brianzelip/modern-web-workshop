@@ -20,3 +20,7 @@ Edit a file by selecting it, then typing in it in the text editor.
 Read error messages and other server logs by clicking on the **Tools** button in bottom left corner, then the **Logs** button.
 
 Interact with a fully functional command line interface by clicking on the **Tools** button in the bottom left corner, then the **Logs** button, then the **Console** button.
+
+### 7.3. Follow along with the instructor
+
+Let's interact with some code!
