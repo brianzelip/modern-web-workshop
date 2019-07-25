@@ -43,4 +43,7 @@ Copy and paste each of the following comands into the Glitch console to replace 
 
 Our front end project is currently in its finished state. Let's "checkout" an earlier state to start from the beginning.
 
-1. Run the following code in the Glitch console<br><br><code>git checkout 1</code>
+Copy and paste the following commands in the Glitch console:
+
+1. Checkout branch 1<br><br><code>git checkout 1</code><br><br>
+2. Refresh the Glitch file system to see branch 1<br><br><code>refresh</code><br><br>
